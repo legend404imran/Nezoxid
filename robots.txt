@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nezoxid.example.com/sitemap.xml
